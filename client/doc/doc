@@ -1,0 +1,3 @@
+client_source是qt源代码文件
+client_UI_EXE.zip是我试图完成的发行版，但是似乎只能在安装了Qt的Ubuntu上使用...
+video.mp4是效果展示视频，如果不能编译可以参考这段视频~
